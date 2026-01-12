@@ -1,1 +1,1 @@
-# Leetcode problem 704 LinearSearch implamented
+# Leetcode problem LinearSearch and binary search implemented
